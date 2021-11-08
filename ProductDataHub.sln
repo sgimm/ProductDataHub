@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductDataHub", "ProductDataHub\ProductDataHub.csproj", "{9FB0D561-FC8D-4F15-AEF3-75FC75D08BFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FB0D561-FC8D-4F15-AEF3-75FC75D08BFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FB0D561-FC8D-4F15-AEF3-75FC75D08BFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FB0D561-FC8D-4F15-AEF3-75FC75D08BFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FB0D561-FC8D-4F15-AEF3-75FC75D08BFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33171F26-31D8-4081-9CFA-B0BA16AA50A1}
+	EndGlobalSection
+EndGlobal
